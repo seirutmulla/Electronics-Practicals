@@ -15,4 +15,4 @@
 
 **Circuit Diagram:**
 
-![Circuit Diagram](proteus bcd simulation.png)
+![Circuit Diagram](proteus-bcd-simulation.png)
