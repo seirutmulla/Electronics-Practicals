@@ -14,4 +14,5 @@
 **Description:** This practical demonstrates displaying BCD input on a seven segment display.
 
 **Circuit Diagram:**
+
 ![Circuit Diagram](proteus bcd simulation.png)
