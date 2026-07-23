@@ -17,3 +17,4 @@
 **Description:** This practical demonstrates displaying various waveforms using digital inputs and converting them into analog outputs and showing them in the oscilloscope.
 
 **Circuit Diagram:**
+![Circuit Diagram](dac-interfacing.png)
