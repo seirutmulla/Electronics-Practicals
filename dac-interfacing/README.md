@@ -18,3 +18,16 @@
 
 **Circuit Diagram:**
 ![Circuit Diagram](dac-interfacing.png)
+
+**Output:**
+1) Sinwave
+![Sinwave](sinwave.png)
+
+2) Ramp Wave
+![Ramp Wave](rampwave.png)
+
+3) Square Wave
+![Square Wave](squarewave.png)
+
+4) Triangular Wave
+![Triangular Wave](triangularwave.png)
