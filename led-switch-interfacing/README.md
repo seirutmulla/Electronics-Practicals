@@ -9,3 +9,4 @@ Raspberry Pi 3 Model B or B+ Development Board, Python
 
 **CIRCUIT DIAGRAM:**
 
+![Circuit Diagram](led-switch-interfacing.png)
