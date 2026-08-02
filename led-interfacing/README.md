@@ -7,4 +7,5 @@
 **APPARATUS:** Raspberry Pi 3 B+, LED, 330Ω resistor, monitor, keyboard, mouse. 
 
 **CIRCUIT DIAGRAM:**
+
 ![Circuit Diagram](led-interfacing-circuit-diagram.png)
